@@ -1,0 +1,28 @@
+SQL SERVER 2008
+-----------------------------------------------------
+Named instance:SQLExpress
+Instance ID :SQLExpress
+Instance Directory:C:\Program Files\Microsoft SQL Server\
+
+SQL Server Database Engine:NT AUTHORITY\SYSTEM
+
+Data root directory: C:\Program Files\Microsoft SQL Server\
+
+System database directory :C:\Program Files\Microsoft SQL Server\MSSQL10.SQLEXPRESS\MSSQL\DATA
+
+user database directory:C:\Program Files\Microsoft SQL Server\MSSQL10.SQLEXPRESS\MSSQL\Data
+
+Back up directory: C:\Program Files\Microsoft SQL Server\MSSQL10.SQLEXPRESS\MSSQL\Backup
+
+server administrator: toussaint-PC\toussaint(toussaint)
+---------------------------------------------------------
+
+3D-MAX
+
+A copy of your registration information has been saved to the following location:
+C:\Users\toussaint\Documents\Adlm\3DSMAX9ENURegInfo.html
+
+
+
+
+---------------------------------------------------------
